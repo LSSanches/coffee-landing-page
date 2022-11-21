@@ -31,7 +31,7 @@ function App() {
         </a>
         , open-sourced on{" "}
         <a
-          href="https://github.com/LSSanches/dictionary"
+          href="https://github.com/LSSanches/coffee-landing-page"
           target="_blank"
           rel="noopener noreferrer"
         >
