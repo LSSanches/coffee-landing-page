@@ -1,0 +1,85 @@
+body {
+  font-family: system-ui;
+  margin: 30px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  padding: 10px;
+  background: linear-gradient(
+    360deg,
+    rgb(133, 190, 201) 22%,
+    rgb(255, 255, 255) 100%
+  );
+}
+
+.LandingPage {
+  max-width: 90%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+h1 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: normal;
+  margin: 20px;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+  margin: 15px auto;
+  border: 1px solid darkgrey;
+  padding: 5px;
+  text-align: center;
+  max-width: 60%;
+  font-weight: normal;
+  border-radius: 4px;
+}
+img {
+  margin: 0 auto;
+  display: block;
+  border-radius: 4px;
+  width: 300px;
+  max-width: 80%;
+}
+
+h3 {
+  display: block;
+  margin: 0 auto;
+  text-align: justify;
+  margin: 20px auto;
+  font-size: 1.5em;
+}
+
+h4 {
+  display: block;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+p {
+  display: block;
+  line-height: 1.5;
+  margin: 5px auto 20px auto;
+  text-indent: 30px;
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+  color: lightgray;
+  font-size: 12px;
+}
+
+.highlight {
+  font-weight: bolder;
+}
+
+.more {
+  line-height: 40px;
+  font-size: 12px;
+}
